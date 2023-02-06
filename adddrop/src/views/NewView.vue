@@ -34,7 +34,7 @@
   <div class="teamcard">
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new1.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new1.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">
             นักศึกษาที่ลงทะเบียนในภาคเรียนที่ 1/2565 รายวิชาใดได้เกรด I หรือเกรดว่าง
@@ -48,7 +48,7 @@
     </div>
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new2.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new2.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">
             📌น้องๆ ที่เรียนหลักสูตร 4 ปี และ 5 ปี (ม.6/ปวช.)📌 ✨ผ่านการคัดเลือกแล้ว🥳
@@ -61,7 +61,7 @@
     </div>
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new3.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new3.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">
             ขอเชิญรับฟังการประชันนโยบายและปราศัยหาเสียง
@@ -77,7 +77,7 @@
     </div>
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new4.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new4.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">
             นศ. ที่จะต้องใช้ผลการเรียนในเว็บงานทะเบียน (reg.mju.ac.th) ‼️ ‼️
@@ -92,7 +92,7 @@
     </div>
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new5.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new5.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">
             ประชาสัมพันธ์ การประชุมสัมมนา เรื่อง
@@ -104,7 +104,7 @@
     </div>
     <div class="card-item">
       <div class="card" style="width: 18rem">
-        <img src="pic/new6.jpg" class="card-img-top" alt="..." />
+        <img src="/pic/new6.jpg" class="card-img-top" alt="..." />
         <div class="card-body">
           <p class="card-text">แจ้งตารางเรียนวิชา ศท141, ศท142, ศท241</p>
         </div>
