@@ -5,9 +5,6 @@
     </div>
   </header>
   <div class="team">
-    <div class="left-team">
-      <img src="pic/plans.png" alt="" />
-    </div>
     <div class="right-team">
       <div>
         <table
@@ -80,12 +77,11 @@ header {
   height: 400px;
 }
 
-.left-team {
-  width: 60%;
-}
+
 
 .right-team {
-  width: 40%;
+  justify-content: center;
+  align-items: center;
 }
 img {
   width: 100%;
