@@ -4,10 +4,18 @@
       <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="pic/p1.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="https://dfeprogram.files.wordpress.com/2019/05/mju_apply-e1587733851603.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
           </div>
           <div class="carousel-item">
-            <img src="pic/p3.jpg" class="d-block w-100" alt="..." />
+            <img
+              src="https://sciencebase.mju.ac.th/tcas/images/TCAS66_BannerWeb.jpg"
+              class="d-block w-100"
+              alt="..."
+            />
           </div>
         </div>
         <button
